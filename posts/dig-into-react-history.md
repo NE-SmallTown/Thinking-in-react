@@ -17,3 +17,18 @@ But I want to talk something different, not about what happened before, it's abo
 
 ### Fiber
 
+
+# 框架总览
+
+## 整体思路
+
+## 数据结构
+
+# 生命周期
+
+## Render 阶段
+
+## Commit 阶段
+
+## Sync VS Async
+
